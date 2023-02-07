@@ -1,0 +1,19 @@
+## a32xx-user 13 TP1A.220624.014 A325FXXU2CWA6 release-keys
+- Manufacturer: samsung
+- Platform: mt6768
+- Codename: a32
+- Brand: samsung
+- Flavor: a32xx-user
+- Release Version: 13
+- Kernel Version: 4.14.186
+- Id: TP1A.220624.014
+- Incremental: A325FXXU2CWA6
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-GB
+- Screen Density: undefined
+- Fingerprint: samsung/a32xx/a32:12/SP1A.210812.016/A325FXXU2CWA6:user/release-keys
+- OTA version: 
+- Branch: a32xx-user-13-TP1A.220624.014-A325FXXU2CWA6-release-keys
+- Repo: samsung_a32_dump
